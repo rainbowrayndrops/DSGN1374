@@ -1,0 +1,46 @@
+body {
+	background-color: cornsilk;
+	color: black;
+	font-family: Helvetica, Arial, sans-serif;
+	max-width: 42em;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+h1 {
+	text-align: left;
+	font-weight: bold;
+	line-height: 1.4;
+	font-size: 32px;
+}
+
+h2 {
+	font-size: 20px;
+	font-weight: normal;
+	margin-bottom: 30px;
+}
+
+h3 {
+	font-size: 18px;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+h4 {
+	font-size: 16px;
+	text-decoration: underline;
+}
+
+p {
+	font-size: 14px;
+	line-height: 1.25;
+}
+
+em {
+	text-align: center;
+}
+
+ul {
+	font-size: 14px;
+	line-height: 1.5
+}
